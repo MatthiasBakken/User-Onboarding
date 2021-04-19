@@ -1,0 +1,26 @@
+h1 {
+	margin-left: 20px;
+}
+form {
+	display: flex;
+	flex-direction: column;
+	font-size: 1.5em;
+}
+label {
+	margin: 0 20px 0 20px;
+}
+input {
+	margin: 0 20px 20px 20px;
+}
+form div {
+	margin: -20px 0 20px 20px;
+	color: red;
+}
+button {
+	margin: 0 20px 0 20px;
+}
+#terms {
+	margin: 5px 0 20px 20px;
+	width: 1.5em;
+	height: 1.5em;
+}
